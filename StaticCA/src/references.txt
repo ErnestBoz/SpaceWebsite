@@ -1,0 +1,38 @@
+IMAGES
+
+•	apollo11 image - https://images.nasa.gov/details/as11-40-5875   
+•	artemis 3 - https://images.nasa.gov/details/MAF_20220727_CS3_LOX_FwdDome_04
+•	background - https://images.nasa.gov/details/iss040e083604
+•	dragonfly image - https://www.nasa.gov/science-research/planetary-science/nasas-dragonfly-team-soars-through-major-design-review/
+•	europa clipper - https://spacenews.com/nasa-to-replace-europa-clipper-instrument/
+•	gagarin - https://histrf.ru/read/biographies/gagharin-iurii-alieksieievich
+•	hubble - https://images.nasa.gov/details/PIA18165
+•	iss - https://images.nasa.gov/details/0201587
+•	james webb - https://science.nasa.gov/mission/webb/
+•	laika - https://medium.com/@relaxingvibe18/the-first-dogs-to-travel-to-the-moon-a-brief-history-41e702f08268
+•	logo - https://gpm.nasa.gov/science-team/resources/nasa-logo
+•	lunar gateway - https://www.nasa.gov/mission/gateway/
+•	mars (curiosity rover) - https://images.nasa.gov/details/PIA22960
+•	moon - https://www.freeiconspng.com/img/44668
+•	moonlanding - https://www.nasa.gov/image-detail/amf-as11-40-5927/
+•	new horizons - https://airandspace.si.edu/collection-objects/spacecraft-new-horizons-mock-model/nasm_A20080394000
+•	rosetta-philae - https://science.nasa.gov/mission/rosetta-philae/
+•	salyut - https://www.britannica.com/technology/Salyut
+•	sample return - https://images.nasa.gov/details/PIA25326
+•	sojourner - https://images.nasa.gov/details/PIA01122
+•	thumbnail/astronaut - https://images.nasa.gov/details/as11-40-5903
+•	voyager 1 - https://images.nasa.gov/details/PIA17462
+•	yuri gagarin - https://www.theguardian.com/science/2011/apr/06/yuri-gagarin-orbital-flight-1961
+
+
+
+
+
+CONTENT
+
+Future.html:
+•	Europa Clipper - https://science.nasa.gov/europa-clipper-homepage/
+•	Artemis 3 - https://www.nasa.gov/mission/artemis-iii/
+•	Mars Sample Return - https://science.nasa.gov/mission/mars-sample-return/
+•	Lunar Gateway - https://www.nasa.gov/mission/gateway/
+•	Dragonfly - https://science.nasa.gov/mission/dragonfly/

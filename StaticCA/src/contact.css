@@ -1,0 +1,73 @@
+/* Base styles */
+main {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+/* Headline styling */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+  /* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+padding: 10px;
+margin-bottom: 15px;
+border: 1px solid #ccc;
+border-radius: 3px;
+font-size: 14px;
+width: 100%;
+box-sizing: border-box;
+}
+textarea {
+resize: vertical;
+min-height: 120px;
+}
+/* Submit button styling */
+button {
+background-color: #000080;
+color: #fff;
+border: none;
+padding: 12px;
+font-size: 16px;
+border-radius: 3px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+/* Shift to light blue when hovered over */
+button:hover {
+background-color: #0000cd;
+}
+/* Map embed styling */
+.map-container {
+margin-top: 30px;
+text-align: center;
+
+}
+.map-container iframe {
+width: 100%;
+max-width: 600px;
+height: 400px;
+border: 0;
+border-radius: 8px;
+}
